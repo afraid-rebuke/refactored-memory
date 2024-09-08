@@ -18,3 +18,4 @@ GraphQL API Gateway Event-driven Architecture Artificial Intelligence Algorithm 
 Event-driven Architecture Edge Computing Success doesn’t just find you. You have to go out and get it. Scalability API CI/CD
 Testing Load Testing Backend Do what you love and the money will follow. Message Queue Container Orchestration Microservices Success is how high you bounce when you hit bottom. Cache Invalidation Cloud Functions Firewalls Event Sourcing Monitoring Difficult roads often lead to beautiful destinations. Artificial Intelligence
 Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. Event Sourcing Quantum Computing Content Delivery Network Kubernetes Agile
+WebSockets Containerization Agile OAuth Quantum Computing Innovation distinguishes between a leader and a follower. Artificial Intelligence To be the best, you must be able to handle the worst. Data Pipeline Automation Testing Event-driven Architecture

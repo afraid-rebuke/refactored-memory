@@ -23,3 +23,4 @@ I find that the harder I work, the more luck I seem to have. Innovation distingu
 Opportunities don't happen. You create them. Server Response UX Optimization Framework Deployment
 Success doesn’t just find you. You have to go out and get it. Cache Invalidation Neural Networks API Message Queue Backend Algorithm Difficult roads often lead to beautiful destinations. Distributed Systems Automation GraphQL Code Review
 Code Review Database OAuth API Testing The only way to do great work is to love what you do.
+DevOps Containerization Act as if what you do makes a difference. It does. Cloud Algorithm Pull Request Dream big and dare to fail. Innovation distinguishes between a leader and a follower.
