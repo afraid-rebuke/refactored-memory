@@ -27,3 +27,4 @@ IoT RabbitMQ Difficult roads often lead to beautiful destinations. Success doesn
 Data Pipeline Event-driven Architecture React Firewalls Load Testing Replica Set Docker Serverless Data Science Predictive Analytics Performance Security Lambda Functions GraphQL
 Artificial Intelligence Data Pipeline Success usually comes to those who are too busy to be looking for it. Edge Computing CI/CD Message Queue Framework Success is how high you bounce when you hit bottom.
 Big Data Deployment JWT Microservices Data Pipeline
+Code Review Kubernetes Parallel Processing Success is not in what you have, but who you are. Framework Act as if what you do makes a difference. It does.
