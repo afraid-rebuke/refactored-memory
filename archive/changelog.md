@@ -21,3 +21,4 @@ Success usually comes to those who are too busy to be looking for it. Success is
 Great things never come from comfort zones. To be the best, you must be able to handle the worst. Framework CI/CD Monitoring Quantum Computing RabbitMQ The only way to do great work is to love what you do. WebSockets Logging UX Optimization Success is how high you bounce when you hit bottom. Backend
 Cloud Functions Code Review Replica Set IoT Quantum Computing Neural Networks Success doesn’t just find you. You have to go out and get it.
 Machine Learning I find that the harder I work, the more luck I seem to have. Sharding Frontend Quantum Computing GraphQL Automation Algorithm Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Predictive Analytics Python Code Review
+Stay hungry, stay foolish. React OAuth API Version Control Container Orchestration

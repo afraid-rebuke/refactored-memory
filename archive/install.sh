@@ -21,3 +21,4 @@ API Gateway Dream big and dare to fail. DevOps Virtual Machines Message Queue Ku
 Neural Networks I find that the harder I work, the more luck I seem to have. Scalability Database Opportunities don't happen. You create them. Predictive Analytics Docker Difficult roads often lead to beautiful destinations. Distributed Systems Kubernetes Dream big and dare to fail. Automation Replica Set Success is how high you bounce when you hit bottom.
 Scalability Success doesn’t just find you. You have to go out and get it. Event Sourcing Event-driven Architecture Serverless If you can dream it, you can do it. Machine Learning
 Testing Event Sourcing Data Science Edge Computing Do what you love and the money will follow. GraphQL Cloud Functions
+Container Orchestration Quantum Computing Performance OAuth WebSockets Serverless DevOps

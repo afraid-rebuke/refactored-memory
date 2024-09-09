@@ -27,3 +27,4 @@ Don't be afraid to give up the good to go for the great. Agile WebSockets Predic
 Cloud Functions Edge Computing API Parallel Processing Docker Message Queue Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. If you can dream it, you can do it. Work hard in silence, let your success be your noise. Virtual Machines Serverless Neural Networks
 Optimization Machine Learning GraphQL Container Orchestration Version Control
 Simplicity is the ultimate sophistication. Backend Parallel Processing Innovation distinguishes between a leader and a follower. Automation Content Delivery Network Server Response Performance API A/B Testing Big Data Don't be afraid to give up the good to go for the great. Cloud Functions Database Indexing Happiness is not something ready made. It comes from your own actions.
+NLP Kubernetes Serverless RabbitMQ UX Optimization Database
