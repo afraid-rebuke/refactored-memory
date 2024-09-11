@@ -24,3 +24,4 @@ Code Review Backend Automation Containerization Neural Networks Microservices Su
 Neural Networks Optimization RabbitMQ Monitoring Backend Zero Downtime Deployment OAuth Serverless Latency Optimization
 Database Indexing Neural Networks Message Queue OAuth Parallel Processing Performance Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Automation Cloud The only way to do great work is to love what you do. Code Review
 Success doesn’t just find you. You have to go out and get it. Lambda Functions Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Testing
+Algorithm Cloud NLP Load Testing Message Queue Cloud Functions DNS Routing Parallel Processing To be the best, you must be able to handle the worst. CI/CD Data Pipeline Load Balancing Dream big and dare to fail.
