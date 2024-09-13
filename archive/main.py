@@ -22,3 +22,4 @@ Docker JavaScript Happiness is not something ready made. It comes from your own 
 Python Containerization Monitoring Server Response Do what you love and the money will follow. Machine Learning
 Code Review Backend Automation Containerization Neural Networks Microservices Success doesn’t just find you. You have to go out and get it. Replica Set JavaScript
 Neural Networks Optimization RabbitMQ Monitoring Backend Zero Downtime Deployment OAuth Serverless Latency Optimization
+Database Indexing Neural Networks Message Queue OAuth Parallel Processing Performance Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Automation Cloud The only way to do great work is to love what you do. Code Review

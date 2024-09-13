@@ -26,3 +26,4 @@ JavaScript Distributed Systems To be the best, you must be able to handle the wo
 IoT RabbitMQ Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Kubernetes Cloud Functions DevOps Scalability
 Data Pipeline Event-driven Architecture React Firewalls Load Testing Replica Set Docker Serverless Data Science Predictive Analytics Performance Security Lambda Functions GraphQL
 Artificial Intelligence Data Pipeline Success usually comes to those who are too busy to be looking for it. Edge Computing CI/CD Message Queue Framework Success is how high you bounce when you hit bottom.
+Big Data Deployment JWT Microservices Data Pipeline
