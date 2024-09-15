@@ -22,3 +22,4 @@ Serverless Don't be afraid to give up the good to go for the great. Testing Shar
 I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Content Delivery Network Message Queue Docker Container Orchestration Sharding Happiness is not something ready made. It comes from your own actions. Scalability Event Sourcing Blockchain
 Opportunities don't happen. You create them. Server Response UX Optimization Framework Deployment
 Success doesn’t just find you. You have to go out and get it. Cache Invalidation Neural Networks API Message Queue Backend Algorithm Difficult roads often lead to beautiful destinations. Distributed Systems Automation GraphQL Code Review
+Code Review Database OAuth API Testing The only way to do great work is to love what you do.
