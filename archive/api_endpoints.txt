@@ -29,3 +29,4 @@ Database Indexing Security Big Data Dream big and dare to fail. Docker Work hard
 Cache Invalidation Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Scalability Edge Computing API Gateway Artificial Intelligence Monitoring Docker Virtual Machines
 Replica Set Predictive Analytics Optimization Machine Learning Artificial Intelligence Agile Success usually comes to those who are too busy to be looking for it.
 Load Testing Virtual Machines Serverless DevOps Framework WebSockets Cloud Backend
+Container Orchestration I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Sharding Backend

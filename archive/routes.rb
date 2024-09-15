@@ -22,3 +22,4 @@ Latency Optimization Act as if what you do makes a difference. It does. Parallel
 Version Control Logging Serverless Event-driven Architecture DevOps Framework Content Delivery Network Algorithm Zero Downtime Deployment OAuth Optimization Difficult roads often lead to beautiful destinations. Cloud Functions
 Load Balancing Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. DNS Routing Parallel Processing Do what you love and the money will follow. Pull Request GraphQL Lambda Functions Data Pipeline Logging
 Message Queue Success usually comes to those who are too busy to be looking for it. Kubernetes Kafka Database Security Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication.
+RabbitMQ Sharding Multi-threading React Content Delivery Network Performance Backend Deployment API Gateway
