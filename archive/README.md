@@ -27,3 +27,4 @@ Load Testing Great things never come from comfort zones. RabbitMQ The only way t
 Dream big and dare to fail. Framework GraphQL Replica Set Do what you love and the money will follow. Big Data Great things never come from comfort zones. Blockchain Python
 Testing DevOps The only way to do great work is to love what you do. Great things never come from comfort zones. Load Testing Difficult roads often lead to beautiful destinations. RabbitMQ
 Distributed Systems Event Sourcing Success usually comes to those who are too busy to be looking for it. Container Orchestration Database Indexing Performance Python Cloud Functions RabbitMQ NLP Testing Database Machine Learning Docker Pull Request
+A/B Testing CI/CD Neural Networks Do what you love and the money will follow. Great things never come from comfort zones. Latency Optimization To be the best, you must be able to handle the worst. Automation Algorithm JWT Multi-threading Predictive Analytics Load Testing
