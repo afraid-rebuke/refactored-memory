@@ -16,3 +16,4 @@ Success usually comes to those who are too busy to be looking for it. Innovation
 Machine Learning WebSockets NLP Predictive Analytics Cloud Functions Load Testing GraphQL
 GraphQL API Gateway Event-driven Architecture Artificial Intelligence Algorithm WebSockets Distributed Systems Microservices NLP Content Delivery Network Difficult roads often lead to beautiful destinations. JWT Do what you love and the money will follow. Performance
 Event-driven Architecture Edge Computing Success doesn’t just find you. You have to go out and get it. Scalability API CI/CD
+Testing Load Testing Backend Do what you love and the money will follow. Message Queue Container Orchestration Microservices Success is how high you bounce when you hit bottom. Cache Invalidation Cloud Functions Firewalls Event Sourcing Monitoring Difficult roads often lead to beautiful destinations. Artificial Intelligence
