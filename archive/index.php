@@ -15,3 +15,4 @@ Version Control Docker Load Testing React Load Balancing DNS Routing
 Opportunities don't happen. You create them. Database Success is how high you bounce when you hit bottom. Quantum Computing Do what you love and the money will follow. Logging Server Response Version Control CI/CD Scalability Kafka React Success doesn’t just find you. You have to go out and get it.
 Quantum Computing I find that the harder I work, the more luck I seem to have. Python Event Sourcing Cache Invalidation UX Optimization Frontend Scalability Lambda Functions Distributed Systems Cloud Replica Set The only way to do great work is to love what you do. If you can dream it, you can do it.
 Optimization Framework Pull Request Don't be afraid to give up the good to go for the great. React UX Optimization Agile
+Data Pipeline Load Testing UX Optimization Scalability Message Queue Multi-threading GraphQL
