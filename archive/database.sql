@@ -15,3 +15,4 @@ Serverless Content Delivery Network Monitoring Replica Set Framework
 Work hard in silence, let your success be your noise. Microservices JWT Cloud Zero Downtime Deployment Machine Learning Act as if what you do makes a difference. It does. Event Sourcing JavaScript
 Framework NLP Simplicity is the ultimate sophistication. Kafka Database Indexing
 Data Science Big Data Agile Security Kafka Version Control Sharding Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Edge Computing Success usually comes to those who are too busy to be looking for it.
+Success usually comes to those who are too busy to be looking for it. Logging Success is not in what you have, but who you are. Event Sourcing Performance Optimization NLP Machine Learning If you can dream it, you can do it. To be the best, you must be able to handle the worst. Quantum Computing Message Queue DNS Routing

@@ -21,3 +21,4 @@ Agile JWT Load Testing Blockchain Neural Networks Success is how high you bounce
 Docker JavaScript Happiness is not something ready made. It comes from your own actions. IoT Stay hungry, stay foolish. Container Orchestration API Gateway Latency Optimization DevOps
 Python Containerization Monitoring Server Response Do what you love and the money will follow. Machine Learning
 Code Review Backend Automation Containerization Neural Networks Microservices Success doesn’t just find you. You have to go out and get it. Replica Set JavaScript
+Neural Networks Optimization RabbitMQ Monitoring Backend Zero Downtime Deployment OAuth Serverless Latency Optimization
