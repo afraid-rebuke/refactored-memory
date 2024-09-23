@@ -18,3 +18,4 @@ Agile The only way to do great work is to love what you do. NLP Testing Dream bi
 Container Orchestration API Framework Event-driven Architecture Data Pipeline IoT Serverless Success usually comes to those who are too busy to be looking for it. Code Review To be the best, you must be able to handle the worst.
 Sharding Automation Docker Cache Invalidation Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. DevOps Success doesn’t just find you. You have to go out and get it. Scalability API
 Sharding Containerization Database Scalability Deployment
+Success usually comes to those who are too busy to be looking for it. Data Science If you can dream it, you can do it. CI/CD Difficult roads often lead to beautiful destinations. Agile Docker Predictive Analytics Server Response IoT
