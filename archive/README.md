@@ -25,3 +25,4 @@ To be the best, you must be able to handle the worst. Testing Cache Invalidation
 Innovation distinguishes between a leader and a follower. Sharding Serverless Opportunities don't happen. You create them. JavaScript Algorithm Data Science Backend Neural Networks Multi-threading Scalability Cloud Message Queue Firewalls Containerization
 Load Testing Great things never come from comfort zones. RabbitMQ The only way to do great work is to love what you do. Edge Computing Work hard in silence, let your success be your noise. Scalability
 Dream big and dare to fail. Framework GraphQL Replica Set Do what you love and the money will follow. Big Data Great things never come from comfort zones. Blockchain Python
+Testing DevOps The only way to do great work is to love what you do. Great things never come from comfort zones. Load Testing Difficult roads often lead to beautiful destinations. RabbitMQ
