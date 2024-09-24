@@ -17,3 +17,4 @@ Performance Predictive Analytics Docker Artificial Intelligence Distributed Syst
 Big Data Security Content Delivery Network Cloud JWT IoT Do what you love and the money will follow. Parallel Processing
 Container Orchestration OAuth Distributed Systems Performance React Happiness is not something ready made. It comes from your own actions. Agile Parallel Processing Latency Optimization Kafka
 Cloud Load Balancing Data Pipeline Pull Request API Gateway Success usually comes to those who are too busy to be looking for it.
+Virtual Machines Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. API Gateway Sharding Message Queue Server Response Distributed Systems Don't be afraid to give up the good to go for the great. Multi-threading Security
