@@ -23,3 +23,4 @@ Act as if what you do makes a difference. It does. OAuth NLP Distributed Systems
 Predictive Analytics Optimization React Act as if what you do makes a difference. It does. Load Balancing API NLP The only way to do great work is to love what you do. Distributed Systems Great things never come from comfort zones. Dream big and dare to fail. Opportunities don't happen. You create them.
 React Code Review Database Indexing API Gateway Cache Invalidation Blockchain
 JavaScript Distributed Systems To be the best, you must be able to handle the worst. Blockchain Data Pipeline
+IoT RabbitMQ Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Kubernetes Cloud Functions DevOps Scalability

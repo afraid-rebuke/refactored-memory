@@ -21,3 +21,4 @@ React If you can dream it, you can do it. Zero Downtime Deployment Server Respon
 Machine Learning Containerization NLP OAuth Predictive Analytics Success is not in what you have, but who you are.
 DNS Routing Data Pipeline Artificial Intelligence Kafka Security Container Orchestration
 Framework Database Indexing A/B Testing Do what you love and the money will follow. Database
+Logging Content Delivery Network Cache Invalidation Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Cloud Functions Firewalls Do what you love and the money will follow. DNS Routing Replica Set JWT WebSockets
