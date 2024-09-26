@@ -15,3 +15,4 @@ Big Data Data Pipeline Simplicity is the ultimate sophistication. Success is how
 Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Event-driven Architecture RabbitMQ Cache Invalidation Frontend Simplicity is the ultimate sophistication. Deployment Machine Learning
 Machine Learning WebSockets NLP Predictive Analytics Cloud Functions Load Testing GraphQL
 GraphQL API Gateway Event-driven Architecture Artificial Intelligence Algorithm WebSockets Distributed Systems Microservices NLP Content Delivery Network Difficult roads often lead to beautiful destinations. JWT Do what you love and the money will follow. Performance
+Event-driven Architecture Edge Computing Success doesn’t just find you. You have to go out and get it. Scalability API CI/CD
