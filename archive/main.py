@@ -19,3 +19,4 @@ If you can dream it, you can do it. React Content Delivery Network Don't be afra
 Content Delivery Network Machine Learning Zero Downtime Deployment RabbitMQ Framework Parallel Processing Cloud Functions
 Agile JWT Load Testing Blockchain Neural Networks Success is how high you bounce when you hit bottom. Database Indexing API Pull Request
 Docker JavaScript Happiness is not something ready made. It comes from your own actions. IoT Stay hungry, stay foolish. Container Orchestration API Gateway Latency Optimization DevOps
+Python Containerization Monitoring Server Response Do what you love and the money will follow. Machine Learning
