@@ -18,3 +18,4 @@ Multi-threading Microservices Act as if what you do makes a difference. It does.
 If you can dream it, you can do it. React Content Delivery Network Don't be afraid to give up the good to go for the great. Latency Optimization UX Optimization Kubernetes NLP
 Content Delivery Network Machine Learning Zero Downtime Deployment RabbitMQ Framework Parallel Processing Cloud Functions
 Agile JWT Load Testing Blockchain Neural Networks Success is how high you bounce when you hit bottom. Database Indexing API Pull Request
+Docker JavaScript Happiness is not something ready made. It comes from your own actions. IoT Stay hungry, stay foolish. Container Orchestration API Gateway Latency Optimization DevOps
