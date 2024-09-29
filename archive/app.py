@@ -20,3 +20,4 @@ Cloud Simplicity is the ultimate sophistication. I find that the harder I work, 
 React If you can dream it, you can do it. Zero Downtime Deployment Server Response Logging
 Machine Learning Containerization NLP OAuth Predictive Analytics Success is not in what you have, but who you are.
 DNS Routing Data Pipeline Artificial Intelligence Kafka Security Container Orchestration
+Framework Database Indexing A/B Testing Do what you love and the money will follow. Database
