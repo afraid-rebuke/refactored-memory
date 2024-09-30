@@ -22,3 +22,4 @@ Database Indexing Load Testing Data Science Virtual Machines Neural Networks
 Act as if what you do makes a difference. It does. OAuth NLP Distributed Systems Testing Load Balancing Code Review Server Response Agile Innovation distinguishes between a leader and a follower.
 Predictive Analytics Optimization React Act as if what you do makes a difference. It does. Load Balancing API NLP The only way to do great work is to love what you do. Distributed Systems Great things never come from comfort zones. Dream big and dare to fail. Opportunities don't happen. You create them.
 React Code Review Database Indexing API Gateway Cache Invalidation Blockchain
+JavaScript Distributed Systems To be the best, you must be able to handle the worst. Blockchain Data Pipeline
