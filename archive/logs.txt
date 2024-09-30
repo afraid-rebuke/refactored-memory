@@ -18,3 +18,4 @@ Message Queue Success usually comes to those who are too busy to be looking for 
 Pull Request Data Science Algorithm Success doesn’t just find you. You have to go out and get it. Code Review Difficult roads often lead to beautiful destinations.
 Database Performance Database Indexing Serverless Framework A/B Testing Lambda Functions Cloud Sharding Automation Pull Request DevOps
 API Gateway Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Cache Invalidation Event Sourcing Performance Virtual Machines DNS Routing A/B Testing
+Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Database CI/CD Machine Learning WebSockets Message Queue Event Sourcing To be the best, you must be able to handle the worst. Pull Request Difficult roads often lead to beautiful destinations. Cache Invalidation Success doesn’t just find you. You have to go out and get it. RabbitMQ
