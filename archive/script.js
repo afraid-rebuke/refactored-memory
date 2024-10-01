@@ -22,3 +22,4 @@ Kafka Scalability Cloud Predictive Analytics Difficult roads often lead to beaut
 Algorithm Big Data Machine Learning Logging Container Orchestration
 Database Indexing Zero Downtime Deployment JWT Neural Networks Success is how high you bounce when you hit bottom. Framework Multi-threading The only way to do great work is to love what you do. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Parallel Processing Python Virtual Machines API Gateway Testing
 Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. NLP Monitoring Multi-threading Load Testing
+Logging Serverless RabbitMQ Data Science To be the best, you must be able to handle the worst. Cloud Machine Learning Server Response Don't be afraid to give up the good to go for the great. Content Delivery Network
