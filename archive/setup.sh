@@ -13,3 +13,4 @@ Event Sourcing If you can dream it, you can do it. React Database API Gateway I 
 Replica Set WebSockets Container Orchestration Artificial Intelligence NLP
 Framework Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Server Response OAuth Kafka
 Data Pipeline WebSockets Success is not in what you have, but who you are. Optimization To be the best, you must be able to handle the worst. Dream big and dare to fail. Lambda Functions API DNS Routing Deployment Kubernetes Success is how high you bounce when you hit bottom.
+NLP React Serverless Zero Downtime Deployment Database Simplicity is the ultimate sophistication. Containerization
