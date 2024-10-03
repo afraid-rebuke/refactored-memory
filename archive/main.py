@@ -17,3 +17,4 @@ Predictive Analytics IoT Blockchain JWT Machine Learning
 Multi-threading Microservices Act as if what you do makes a difference. It does. Scalability API Stay hungry, stay foolish. Sharding Firewalls Event Sourcing UX Optimization Parallel Processing WebSockets
 If you can dream it, you can do it. React Content Delivery Network Don't be afraid to give up the good to go for the great. Latency Optimization UX Optimization Kubernetes NLP
 Content Delivery Network Machine Learning Zero Downtime Deployment RabbitMQ Framework Parallel Processing Cloud Functions
+Agile JWT Load Testing Blockchain Neural Networks Success is how high you bounce when you hit bottom. Database Indexing API Pull Request
