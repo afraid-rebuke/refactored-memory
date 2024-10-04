@@ -20,3 +20,4 @@ JWT Database Indexing Code Review Algorithm Happiness is not something ready mad
 React Success is how high you bounce when you hit bottom. Zero Downtime Deployment Predictive Analytics Big Data Backend
 Database Indexing Load Testing Data Science Virtual Machines Neural Networks
 Act as if what you do makes a difference. It does. OAuth NLP Distributed Systems Testing Load Balancing Code Review Server Response Agile Innovation distinguishes between a leader and a follower.
+Predictive Analytics Optimization React Act as if what you do makes a difference. It does. Load Balancing API NLP The only way to do great work is to love what you do. Distributed Systems Great things never come from comfort zones. Dream big and dare to fail. Opportunities don't happen. You create them.
