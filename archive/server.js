@@ -14,3 +14,4 @@ Microservices Algorithm Automation Innovation distinguishes between a leader and
 Big Data Data Pipeline Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Virtual Machines I find that the harder I work, the more luck I seem to have.
 Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Event-driven Architecture RabbitMQ Cache Invalidation Frontend Simplicity is the ultimate sophistication. Deployment Machine Learning
 Machine Learning WebSockets NLP Predictive Analytics Cloud Functions Load Testing GraphQL
+GraphQL API Gateway Event-driven Architecture Artificial Intelligence Algorithm WebSockets Distributed Systems Microservices NLP Content Delivery Network Difficult roads often lead to beautiful destinations. JWT Do what you love and the money will follow. Performance
