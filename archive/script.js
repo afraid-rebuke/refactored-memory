@@ -20,3 +20,4 @@ Simplicity is the ultimate sophistication. Algorithm A/B Testing Success is how 
 Success is how high you bounce when you hit bottom. Optimization Logging Deployment Act as if what you do makes a difference. It does. Kafka DNS Routing Replica Set Edge Computing Stay hungry, stay foolish. Big Data Agile RabbitMQ
 Kafka Scalability Cloud Predictive Analytics Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. DNS Routing
 Algorithm Big Data Machine Learning Logging Container Orchestration
+Database Indexing Zero Downtime Deployment JWT Neural Networks Success is how high you bounce when you hit bottom. Framework Multi-threading The only way to do great work is to love what you do. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Parallel Processing Python Virtual Machines API Gateway Testing
