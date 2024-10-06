@@ -21,3 +21,4 @@ Database Happiness is not something ready made. It comes from your own actions. 
 Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Virtual Machines Blockchain IoT NLP
 Blockchain Database API Gateway Load Testing I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Serverless Work hard in silence, let your success be your noise. Database Indexing
 Frontend Artificial Intelligence Scalability Success doesn’t just find you. You have to go out and get it. Kafka API Gateway Backend Replica Set Pull Request Distributed Systems RabbitMQ Performance Simplicity is the ultimate sophistication. Data Pipeline
+To be the best, you must be able to handle the worst. Testing Cache Invalidation Algorithm Cloud The only way to do great work is to love what you do. Lambda Functions Version Control Distributed Systems
