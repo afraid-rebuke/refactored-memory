@@ -17,3 +17,4 @@ Database Indexing Pull Request Optimization API Gateway Event Sourcing Artificia
 Great things never come from comfort zones. Big Data Security Load Testing The only way to do great work is to love what you do. Message Queue Optimization OAuth
 Event Sourcing Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. WebSockets Artificial Intelligence
 Parallel Processing WebSockets Pull Request Blockchain Optimization API Algorithm Version Control Work hard in silence, let your success be your noise. IoT
+API Gateway Dream big and dare to fail. DevOps Virtual Machines Message Queue Kubernetes Backend Cloud Functions Act as if what you do makes a difference. It does. If you can dream it, you can do it. Blockchain Difficult roads often lead to beautiful destinations. CI/CD Success is how high you bounce when you hit bottom.
