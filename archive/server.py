@@ -19,3 +19,4 @@ Big Data I find that the harder I work, the more luck I seem to have. Virtual Ma
 React Data Science Load Testing API To be the best, you must be able to handle the worst.
 Load Balancing Multi-threading Automation Virtual Machines Message Queue
 Kafka JWT UX Optimization NLP API Algorithm JavaScript
+Blockchain Python Event Sourcing Great things never come from comfort zones. Quantum Computing Logging
