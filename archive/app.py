@@ -18,3 +18,4 @@ Parallel Processing WebSockets Cache Invalidation Work hard in silence, let your
 Don't be afraid to give up the good to go for the great. Server Response JWT OAuth IoT Frontend Cloud Functions Monitoring Lambda Functions Cloud Big Data
 Cloud Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Load Testing Docker Success usually comes to those who are too busy to be looking for it. Security Innovation distinguishes between a leader and a follower. Neural Networks IoT CI/CD Data Science
 React If you can dream it, you can do it. Zero Downtime Deployment Server Response Logging
+Machine Learning Containerization NLP OAuth Predictive Analytics Success is not in what you have, but who you are.

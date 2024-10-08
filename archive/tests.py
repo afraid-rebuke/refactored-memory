@@ -19,3 +19,4 @@ Automation Difficult roads often lead to beautiful destinations. Act as if what 
 JWT Database Indexing Code Review Algorithm Happiness is not something ready made. It comes from your own actions. React UX Optimization WebSockets Great things never come from comfort zones.
 React Success is how high you bounce when you hit bottom. Zero Downtime Deployment Predictive Analytics Big Data Backend
 Database Indexing Load Testing Data Science Virtual Machines Neural Networks
+Act as if what you do makes a difference. It does. OAuth NLP Distributed Systems Testing Load Balancing Code Review Server Response Agile Innovation distinguishes between a leader and a follower.
