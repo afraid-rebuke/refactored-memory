@@ -16,3 +16,4 @@ Serverless Latency Optimization Algorithm API Gateway Event Sourcing
 Database Indexing Pull Request Optimization API Gateway Event Sourcing Artificial Intelligence Event-driven Architecture Automation Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Firewalls Don't be afraid to give up the good to go for the great.
 Great things never come from comfort zones. Big Data Security Load Testing The only way to do great work is to love what you do. Message Queue Optimization OAuth
 Event Sourcing Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. WebSockets Artificial Intelligence
+Parallel Processing WebSockets Pull Request Blockchain Optimization API Algorithm Version Control Work hard in silence, let your success be your noise. IoT

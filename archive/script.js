@@ -19,3 +19,4 @@ Content Delivery Network Distributed Systems API Opportunities don't happen. You
 Simplicity is the ultimate sophistication. Algorithm A/B Testing Success is how high you bounce when you hit bottom. Quantum Computing Event Sourcing Deployment Server Response Version Control Framework
 Success is how high you bounce when you hit bottom. Optimization Logging Deployment Act as if what you do makes a difference. It does. Kafka DNS Routing Replica Set Edge Computing Stay hungry, stay foolish. Big Data Agile RabbitMQ
 Kafka Scalability Cloud Predictive Analytics Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. DNS Routing
+Algorithm Big Data Machine Learning Logging Container Orchestration
