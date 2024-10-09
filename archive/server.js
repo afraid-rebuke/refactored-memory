@@ -12,3 +12,4 @@ DevOps JWT Content Delivery Network Cloud Functions To be the best, you must be 
 If you can dream it, you can do it. Success is not in what you have, but who you are. Edge Computing Firewalls Container Orchestration Scalability Big Data Algorithm API Logging A/B Testing
 Microservices Algorithm Automation Innovation distinguishes between a leader and a follower. Neural Networks CI/CD The only way to do great work is to love what you do. Performance
 Big Data Data Pipeline Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Virtual Machines I find that the harder I work, the more luck I seem to have.
+Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Event-driven Architecture RabbitMQ Cache Invalidation Frontend Simplicity is the ultimate sophistication. Deployment Machine Learning

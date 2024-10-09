@@ -18,3 +18,4 @@ React I find that the harder I work, the more luck I seem to have. Zero Downtime
 Big Data I find that the harder I work, the more luck I seem to have. Virtual Machines Content Delivery Network Kafka Blockchain Predictive Analytics Neural Networks Performance RabbitMQ Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Event-driven Architecture GraphQL
 React Data Science Load Testing API To be the best, you must be able to handle the worst.
 Load Balancing Multi-threading Automation Virtual Machines Message Queue
+Kafka JWT UX Optimization NLP API Algorithm JavaScript
