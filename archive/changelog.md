@@ -17,3 +17,4 @@ Serverless Distributed Systems Code Review Difficult roads often lead to beautif
 Simplicity is the ultimate sophistication. React The only way to do great work is to love what you do. GraphQL Python Load Balancing Frontend Blockchain JWT
 Sharding Container Orchestration Virtual Machines OAuth Deployment CI/CD Kubernetes
 Happiness is not something ready made. It comes from your own actions. Scalability Dream big and dare to fail. Multi-threading Parallel Processing Virtual Machines Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Security Stay hungry, stay foolish.
+Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom. Neural Networks Don't be afraid to give up the good to go for the great. JWT
