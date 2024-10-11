@@ -16,3 +16,4 @@ Happiness is not something ready made. It comes from your own actions. Zero Down
 Serverless Distributed Systems Code Review Difficult roads often lead to beautiful destinations. Neural Networks
 Simplicity is the ultimate sophistication. React The only way to do great work is to love what you do. GraphQL Python Load Balancing Frontend Blockchain JWT
 Sharding Container Orchestration Virtual Machines OAuth Deployment CI/CD Kubernetes
+Happiness is not something ready made. It comes from your own actions. Scalability Dream big and dare to fail. Multi-threading Parallel Processing Virtual Machines Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Security Stay hungry, stay foolish.
