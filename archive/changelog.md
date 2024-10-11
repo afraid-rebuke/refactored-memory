@@ -15,3 +15,4 @@ Success is not in what you have, but who you are. Work hard in silence, let your
 Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Machine Learning Testing Container Orchestration JavaScript Backend Optimization Quantum Computing Logging Deployment Stay hungry, stay foolish.
 Serverless Distributed Systems Code Review Difficult roads often lead to beautiful destinations. Neural Networks
 Simplicity is the ultimate sophistication. React The only way to do great work is to love what you do. GraphQL Python Load Balancing Frontend Blockchain JWT
+Sharding Container Orchestration Virtual Machines OAuth Deployment CI/CD Kubernetes

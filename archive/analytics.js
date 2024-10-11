@@ -15,3 +15,4 @@ Algorithm Act as if what you do makes a difference. It does. Firewalls JWT Lambd
 Cache Invalidation UX Optimization OAuth Stay hungry, stay foolish. Event-driven Architecture Act as if what you do makes a difference. It does. RabbitMQ I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
 Performance Predictive Analytics Docker Artificial Intelligence Distributed Systems Automation
 Big Data Security Content Delivery Network Cloud JWT IoT Do what you love and the money will follow. Parallel Processing
+Container Orchestration OAuth Distributed Systems Performance React Happiness is not something ready made. It comes from your own actions. Agile Parallel Processing Latency Optimization Kafka
