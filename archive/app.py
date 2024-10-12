@@ -17,3 +17,4 @@ Success is how high you bounce when you hit bottom. Event Sourcing Event-driven 
 Parallel Processing WebSockets Cache Invalidation Work hard in silence, let your success be your noise. Artificial Intelligence Replica Set NLP I find that the harder I work, the more luck I seem to have. Quantum Computing JavaScript Server Response Simplicity is the ultimate sophistication. Do what you love and the money will follow. IoT
 Don't be afraid to give up the good to go for the great. Server Response JWT OAuth IoT Frontend Cloud Functions Monitoring Lambda Functions Cloud Big Data
 Cloud Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Load Testing Docker Success usually comes to those who are too busy to be looking for it. Security Innovation distinguishes between a leader and a follower. Neural Networks IoT CI/CD Data Science
+React If you can dream it, you can do it. Zero Downtime Deployment Server Response Logging
