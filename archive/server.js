@@ -10,3 +10,4 @@ Message Queue To be the best, you must be able to handle the worst. Load Testing
 Cache Invalidation GraphQL Message Queue Backend Blockchain Docker OAuth Parallel Processing UX Optimization Replica Set Serverless
 DevOps JWT Content Delivery Network Cloud Functions To be the best, you must be able to handle the worst. A/B Testing Machine Learning API Gateway Event Sourcing Quantum Computing Python Edge Computing IoT Frontend Success usually comes to those who are too busy to be looking for it.
 If you can dream it, you can do it. Success is not in what you have, but who you are. Edge Computing Firewalls Container Orchestration Scalability Big Data Algorithm API Logging A/B Testing
+Microservices Algorithm Automation Innovation distinguishes between a leader and a follower. Neural Networks CI/CD The only way to do great work is to love what you do. Performance
