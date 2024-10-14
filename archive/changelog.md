@@ -14,3 +14,4 @@ Don't be afraid to give up the good to go for the great. Monitoring Quantum Comp
 Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Optimization Code Review Success doesn’t just find you. You have to go out and get it. Predictive Analytics Edge Computing UX Optimization Multi-threading Replica Set Cloud Functions OAuth Difficult roads often lead to beautiful destinations.
 Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Machine Learning Testing Container Orchestration JavaScript Backend Optimization Quantum Computing Logging Deployment Stay hungry, stay foolish.
 Serverless Distributed Systems Code Review Difficult roads often lead to beautiful destinations. Neural Networks
+Simplicity is the ultimate sophistication. React The only way to do great work is to love what you do. GraphQL Python Load Balancing Frontend Blockchain JWT
