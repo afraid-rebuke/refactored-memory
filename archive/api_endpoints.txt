@@ -23,3 +23,4 @@ Blockchain Version Control Logging API Gateway Machine Learning Happiness is not
 Content Delivery Network UX Optimization Artificial Intelligence Agile Deployment Dream big and dare to fail. Virtual Machines Firewalls Load Testing Server Response Load Balancing Code Review Edge Computing Serverless
 Parallel Processing Testing Zero Downtime Deployment Scalability Server Response Logging Containerization WebSockets Firewalls Success usually comes to those who are too busy to be looking for it. Multi-threading
 Server Response WebSockets Container Orchestration Artificial Intelligence Sharding Don't be afraid to give up the good to go for the great. Message Queue DevOps Content Delivery Network Multi-threading Lambda Functions Blockchain Event Sourcing Virtual Machines
+Difficult roads often lead to beautiful destinations. Algorithm Replica Set Backend Virtual Machines Data Science Firewalls OAuth Serverless RabbitMQ Load Testing Predictive Analytics
