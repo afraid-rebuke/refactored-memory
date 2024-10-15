@@ -13,3 +13,4 @@ Container Orchestration RabbitMQ Code Review DNS Routing Database Database Index
 Serverless Lambda Functions Security Predictive Analytics Great things never come from comfort zones. Version Control Performance If you can dream it, you can do it.
 Lambda Functions Big Data Machine Learning Distributed Systems DevOps Artificial Intelligence Cloud Functions Edge Computing Zero Downtime Deployment Microservices Success usually comes to those who are too busy to be looking for it. Quantum Computing I find that the harder I work, the more luck I seem to have. Logging
 Serverless Latency Optimization Algorithm API Gateway Event Sourcing
+Database Indexing Pull Request Optimization API Gateway Event Sourcing Artificial Intelligence Event-driven Architecture Automation Success usually comes to those who are too busy to be looking for it. Work hard in silence, let your success be your noise. Firewalls Don't be afraid to give up the good to go for the great.
