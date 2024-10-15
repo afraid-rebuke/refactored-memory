@@ -13,3 +13,4 @@ WebSockets The only way to do great work is to love what you do. Sharding Simpli
 Kafka Happiness is not something ready made. It comes from your own actions. Scalability GraphQL Great things never come from comfort zones.
 Serverless Content Delivery Network Monitoring Replica Set Framework
 Work hard in silence, let your success be your noise. Microservices JWT Cloud Zero Downtime Deployment Machine Learning Act as if what you do makes a difference. It does. Event Sourcing JavaScript
+Framework NLP Simplicity is the ultimate sophistication. Kafka Database Indexing
