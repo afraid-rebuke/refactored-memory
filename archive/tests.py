@@ -18,3 +18,4 @@ Security Simplicity is the ultimate sophistication. Success usually comes to tho
 Automation Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Data Pipeline Sharding Don't be afraid to give up the good to go for the great. Backend JavaScript Algorithm Do what you love and the money will follow. Microservices Success is how high you bounce when you hit bottom. Pull Request
 JWT Database Indexing Code Review Algorithm Happiness is not something ready made. It comes from your own actions. React UX Optimization WebSockets Great things never come from comfort zones.
 React Success is how high you bounce when you hit bottom. Zero Downtime Deployment Predictive Analytics Big Data Backend
+Database Indexing Load Testing Data Science Virtual Machines Neural Networks

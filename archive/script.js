@@ -17,3 +17,4 @@ Work hard in silence, let your success be your noise. UX Optimization Dream big 
 Parallel Processing Microservices Serverless API Gateway Deployment Message Queue Load Testing Optimization Cloud Docker Success is not in what you have, but who you are. Monitoring Logging Agile
 Content Delivery Network Distributed Systems API Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Backend Parallel Processing Zero Downtime Deployment Predictive Analytics DNS Routing Database Indexing A/B Testing
 Simplicity is the ultimate sophistication. Algorithm A/B Testing Success is how high you bounce when you hit bottom. Quantum Computing Event Sourcing Deployment Server Response Version Control Framework
+Success is how high you bounce when you hit bottom. Optimization Logging Deployment Act as if what you do makes a difference. It does. Kafka DNS Routing Replica Set Edge Computing Stay hungry, stay foolish. Big Data Agile RabbitMQ
