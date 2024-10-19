@@ -18,3 +18,4 @@ Code Review Blockchain Performance Replica Set Scalability Dream big and dare to
 Load Testing Success usually comes to those who are too busy to be looking for it. Artificial Intelligence React NLP Neural Networks Monitoring Great things never come from comfort zones.
 IoT Framework Replica Set Virtual Machines NLP Kubernetes Algorithm Security Lambda Functions Data Science
 Content Delivery Network Blockchain IoT Cache Invalidation RabbitMQ Great things never come from comfort zones. NLP Framework Machine Learning A/B Testing
+Latency Optimization Act as if what you do makes a difference. It does. Parallel Processing Security Frontend Backend Event-driven Architecture Kafka Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. DNS Routing Python Quantum Computing
