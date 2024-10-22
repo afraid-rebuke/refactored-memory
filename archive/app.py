@@ -15,3 +15,4 @@ Docker UX Optimization Automation Deployment API Gateway If you can dream it, yo
 UX Optimization CI/CD Optimization If you can dream it, you can do it. Cache Invalidation Load Balancing Docker JWT Kubernetes WebSockets Success is not in what you have, but who you are. Big Data
 Success is how high you bounce when you hit bottom. Event Sourcing Event-driven Architecture Cache Invalidation Happiness is not something ready made. It comes from your own actions. Latency Optimization
 Parallel Processing WebSockets Cache Invalidation Work hard in silence, let your success be your noise. Artificial Intelligence Replica Set NLP I find that the harder I work, the more luck I seem to have. Quantum Computing JavaScript Server Response Simplicity is the ultimate sophistication. Do what you love and the money will follow. IoT
+Don't be afraid to give up the good to go for the great. Server Response JWT OAuth IoT Frontend Cloud Functions Monitoring Lambda Functions Cloud Big Data

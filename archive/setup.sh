@@ -10,3 +10,4 @@ Innovation distinguishes between a leader and a follower. Stay hungry, stay fool
 Cloud Functions Stay hungry, stay foolish. Big Data Backend Edge Computing The only way to do great work is to love what you do. Python Load Testing
 The only way to do great work is to love what you do. WebSockets Edge Computing Microservices Data Science Code Review GraphQL Cloud Functions Event-driven Architecture Monitoring
 Event Sourcing If you can dream it, you can do it. React Database API Gateway I find that the harder I work, the more luck I seem to have. NLP
+Replica Set WebSockets Container Orchestration Artificial Intelligence NLP
