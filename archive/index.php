@@ -12,3 +12,4 @@ GraphQL Cloud Database Indexing Don't be afraid to give up the good to go for th
 Event-driven Architecture NLP Kafka Dream big and dare to fail. Algorithm Containerization Parallel Processing Work hard in silence, let your success be your noise. Zero Downtime Deployment Automation Event Sourcing Multi-threading Frontend To be the best, you must be able to handle the worst. Performance
 Logging Container Orchestration A/B Testing Multi-threading Performance DNS Routing
 Version Control Docker Load Testing React Load Balancing DNS Routing
+Opportunities don't happen. You create them. Database Success is how high you bounce when you hit bottom. Quantum Computing Do what you love and the money will follow. Logging Server Response Version Control CI/CD Scalability Kafka React Success doesn’t just find you. You have to go out and get it.
