@@ -17,3 +17,4 @@ Pull Request API Gateway Machine Learning Success is how high you bounce when yo
 Code Review Blockchain Performance Replica Set Scalability Dream big and dare to fail. Load Testing Simplicity is the ultimate sophistication. Data Pipeline
 Load Testing Success usually comes to those who are too busy to be looking for it. Artificial Intelligence React NLP Neural Networks Monitoring Great things never come from comfort zones.
 IoT Framework Replica Set Virtual Machines NLP Kubernetes Algorithm Security Lambda Functions Data Science
+Content Delivery Network Blockchain IoT Cache Invalidation RabbitMQ Great things never come from comfort zones. NLP Framework Machine Learning A/B Testing
