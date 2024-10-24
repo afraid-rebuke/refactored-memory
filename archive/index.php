@@ -11,3 +11,4 @@ Container Orchestration Load Balancing DevOps Code Review Replica Set Cloud Data
 GraphQL Cloud Database Indexing Don't be afraid to give up the good to go for the great. Version Control Backend CI/CD Event Sourcing To be the best, you must be able to handle the worst. Kubernetes Data Pipeline Load Balancing
 Event-driven Architecture NLP Kafka Dream big and dare to fail. Algorithm Containerization Parallel Processing Work hard in silence, let your success be your noise. Zero Downtime Deployment Automation Event Sourcing Multi-threading Frontend To be the best, you must be able to handle the worst. Performance
 Logging Container Orchestration A/B Testing Multi-threading Performance DNS Routing
+Version Control Docker Load Testing React Load Balancing DNS Routing
