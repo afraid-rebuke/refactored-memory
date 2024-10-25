@@ -16,3 +16,4 @@ Docker Neural Networks Virtual Machines RabbitMQ Act as if what you do makes a d
 Deployment CI/CD Innovation distinguishes between a leader and a follower. Performance Don't be afraid to give up the good to go for the great.
 Message Queue React If you can dream it, you can do it. Kubernetes Sharding Database Indexing Load Balancing CI/CD
 Server Response Dream big and dare to fail. GraphQL OAuth Difficult roads often lead to beautiful destinations. Optimization Logging Framework Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Load Balancing
+API Distributed Systems Work hard in silence, let your success be your noise. Quantum Computing Stay hungry, stay foolish. UX Optimization Big Data Blockchain Performance Kafka I find that the harder I work, the more luck I seem to have.
