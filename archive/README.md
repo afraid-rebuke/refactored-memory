@@ -14,3 +14,4 @@ NLP Performance Logging Simplicity is the ultimate sophistication. UX Optimizati
 UX Optimization CI/CD Latency Optimization Scalability Simplicity is the ultimate sophistication. Automation Cloud Functions NLP Performance GraphQL Firewalls Work hard in silence, let your success be your noise.
 Docker Neural Networks Virtual Machines RabbitMQ Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Server Response Container Orchestration Containerization Agile Message Queue
 Deployment CI/CD Innovation distinguishes between a leader and a follower. Performance Don't be afraid to give up the good to go for the great.
+Message Queue React If you can dream it, you can do it. Kubernetes Sharding Database Indexing Load Balancing CI/CD
