@@ -15,3 +15,4 @@ Big Data Message Queue Version Control Kafka JavaScript Kubernetes Predictive An
 The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Zero Downtime Deployment CI/CD Python Neural Networks
 Predictive Analytics IoT Blockchain JWT Machine Learning
 Multi-threading Microservices Act as if what you do makes a difference. It does. Scalability API Stay hungry, stay foolish. Sharding Firewalls Event Sourcing UX Optimization Parallel Processing WebSockets
+If you can dream it, you can do it. React Content Delivery Network Don't be afraid to give up the good to go for the great. Latency Optimization UX Optimization Kubernetes NLP

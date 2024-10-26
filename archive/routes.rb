@@ -16,3 +16,4 @@ Cloud Load Balancing Agile DevOps Security Success is not in what you have, but 
 Pull Request API Gateway Machine Learning Success is how high you bounce when you hit bottom. IoT JWT Replica Set Data Pipeline Event Sourcing Cache Invalidation Stay hungry, stay foolish. The only way to do great work is to love what you do. Automation
 Code Review Blockchain Performance Replica Set Scalability Dream big and dare to fail. Load Testing Simplicity is the ultimate sophistication. Data Pipeline
 Load Testing Success usually comes to those who are too busy to be looking for it. Artificial Intelligence React NLP Neural Networks Monitoring Great things never come from comfort zones.
+IoT Framework Replica Set Virtual Machines NLP Kubernetes Algorithm Security Lambda Functions Data Science
