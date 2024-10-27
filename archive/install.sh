@@ -12,3 +12,4 @@ Security Testing Serverless Event Sourcing CI/CD Happiness is not something read
 Container Orchestration RabbitMQ Code Review DNS Routing Database Database Indexing Event Sourcing Parallel Processing Docker Deployment
 Serverless Lambda Functions Security Predictive Analytics Great things never come from comfort zones. Version Control Performance If you can dream it, you can do it.
 Lambda Functions Big Data Machine Learning Distributed Systems DevOps Artificial Intelligence Cloud Functions Edge Computing Zero Downtime Deployment Microservices Success usually comes to those who are too busy to be looking for it. Quantum Computing I find that the harder I work, the more luck I seem to have. Logging
+Serverless Latency Optimization Algorithm API Gateway Event Sourcing
