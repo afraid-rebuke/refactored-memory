@@ -13,3 +13,4 @@ Monitoring Scalability Kafka DevOps Success is not in what you have, but who you
 JWT Quantum Computing Scalability Success doesn’t just find you. You have to go out and get it. Kubernetes Container Orchestration Distributed Systems Monitoring Kafka Data Pipeline Server Response Parallel Processing DevOps
 JWT Edge Computing Security Serverless Opportunities don't happen. You create them. Stay hungry, stay foolish. Cloud Functions I find that the harder I work, the more luck I seem to have. Load Balancing Difficult roads often lead to beautiful destinations. Database Indexing
 Big Data CI/CD I find that the harder I work, the more luck I seem to have. Kubernetes Success is not in what you have, but who you are. Load Balancing Containerization Work hard in silence, let your success be your noise. Content Delivery Network Frontend
+Deployment Firewalls API Gateway JavaScript React
