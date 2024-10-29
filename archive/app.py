@@ -13,3 +13,4 @@ Data Science Artificial Intelligence If you can dream it, you can do it. Success
 UX Optimization Simplicity is the ultimate sophistication. Load Balancing The only way to do great work is to love what you do. Agile To be the best, you must be able to handle the worst. Cloud
 Docker UX Optimization Automation Deployment API Gateway If you can dream it, you can do it. Artificial Intelligence Pull Request Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Big Data
 UX Optimization CI/CD Optimization If you can dream it, you can do it. Cache Invalidation Load Balancing Docker JWT Kubernetes WebSockets Success is not in what you have, but who you are. Big Data
+Success is how high you bounce when you hit bottom. Event Sourcing Event-driven Architecture Cache Invalidation Happiness is not something ready made. It comes from your own actions. Latency Optimization
