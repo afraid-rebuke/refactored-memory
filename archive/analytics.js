@@ -13,3 +13,4 @@ NLP Opportunities don't happen. You create them. Happiness is not something read
 Security CI/CD Monitoring Testing Parallel Processing Latency Optimization Quantum Computing Cache Invalidation Event Sourcing Logging Don't be afraid to give up the good to go for the great. Data Science Event-driven Architecture Success is not in what you have, but who you are.
 Algorithm Act as if what you do makes a difference. It does. Firewalls JWT Lambda Functions Performance JavaScript
 Cache Invalidation UX Optimization OAuth Stay hungry, stay foolish. Event-driven Architecture Act as if what you do makes a difference. It does. RabbitMQ I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
+Performance Predictive Analytics Docker Artificial Intelligence Distributed Systems Automation
