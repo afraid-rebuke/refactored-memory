@@ -7,3 +7,4 @@ Containerization Replica Set Frontend Act as if what you do makes a difference. 
 Automation Pull Request Replica Set Machine Learning Serverless Optimization Containerization If you can dream it, you can do it. Parallel Processing Scalability Deployment API Data Science GraphQL
 Security Neural Networks Replica Set Work hard in silence, let your success be your noise. Machine Learning CI/CD If you can dream it, you can do it. Multi-threading Content Delivery Network Code Review WebSockets Logging Innovation distinguishes between a leader and a follower. DNS Routing Opportunities don't happen. You create them.
 Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Security Database Backend GraphQL Artificial Intelligence Algorithm Data Pipeline API Load Testing
+Cloud Functions Stay hungry, stay foolish. Big Data Backend Edge Computing The only way to do great work is to love what you do. Python Load Testing
