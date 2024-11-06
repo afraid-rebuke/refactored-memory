@@ -19,3 +19,4 @@ Virtual Machines Container Orchestration Work hard in silence, let your success 
 Message Queue Logging Edge Computing Containerization Data Pipeline Predictive Analytics To be the best, you must be able to handle the worst. Artificial Intelligence Do what you love and the money will follow. Neural Networks Distributed Systems Automation
 WebSockets Server Response Optimization Latency Optimization Logging
 Data Pipeline JavaScript Happiness is not something ready made. It comes from your own actions. Testing RabbitMQ Success is how high you bounce when you hit bottom. Docker To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise.
+Blockchain Version Control Logging API Gateway Machine Learning Happiness is not something ready made. It comes from your own actions. Container Orchestration A/B Testing
