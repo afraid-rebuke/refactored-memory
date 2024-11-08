@@ -13,3 +13,4 @@ Container Orchestration WebSockets Cache Invalidation Algorithm Big Data Event S
 Pull Request JavaScript Deployment Great things never come from comfort zones. Simplicity is the ultimate sophistication. Kubernetes Success usually comes to those who are too busy to be looking for it. RabbitMQ Success is not in what you have, but who you are. DNS Routing Backend Data Pipeline
 Big Data Message Queue Version Control Kafka JavaScript Kubernetes Predictive Analytics Great things never come from comfort zones.
 The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Zero Downtime Deployment CI/CD Python Neural Networks
+Predictive Analytics IoT Blockchain JWT Machine Learning
