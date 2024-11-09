@@ -10,3 +10,4 @@ Simplicity is the ultimate sophistication. React Deployment Cloud Artificial Int
 Agile Event Sourcing GraphQL NLP Data Science Message Queue I find that the harder I work, the more luck I seem to have. Quantum Computing IoT Happiness is not something ready made. It comes from your own actions.
 Quantum Computing Content Delivery Network Multi-threading Machine Learning RabbitMQ Data Science GraphQL
 Data Science Artificial Intelligence If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. UX Optimization Agile Multi-threading Frontend Optimization DNS Routing Do what you love and the money will follow. Load Balancing
+UX Optimization Simplicity is the ultimate sophistication. Load Balancing The only way to do great work is to love what you do. Agile To be the best, you must be able to handle the worst. Cloud
