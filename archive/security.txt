@@ -14,3 +14,4 @@ NLP API Gateway Act as if what you do makes a difference. It does. I find that t
 Machine Learning Automation OAuth Python Optimization
 A/B Testing Docker The only way to do great work is to love what you do. React Dream big and dare to fail. Algorithm Python Edge Computing
 Code Review JavaScript Kafka Event-driven Architecture Python Cloud Blockchain API
+Quantum Computing NLP Deployment Pull Request RabbitMQ Zero Downtime Deployment Security Framework Data Pipeline Scalability I find that the harder I work, the more luck I seem to have. Predictive Analytics Neural Networks Lambda Functions

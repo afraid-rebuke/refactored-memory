@@ -10,3 +10,4 @@ The only way to do great work is to love what you do. Neural Networks Message Qu
 Stay hungry, stay foolish. Event-driven Architecture Deployment Predictive Analytics Security Docker Zero Downtime Deployment
 Security Testing Serverless Event Sourcing CI/CD Happiness is not something ready made. It comes from your own actions. API Multi-threading Cloud Performance Logging Container Orchestration
 Container Orchestration RabbitMQ Code Review DNS Routing Database Database Indexing Event Sourcing Parallel Processing Docker Deployment
+Serverless Lambda Functions Security Predictive Analytics Great things never come from comfort zones. Version Control Performance If you can dream it, you can do it.
