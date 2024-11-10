@@ -17,3 +17,4 @@ Success doesn’t just find you. You have to go out and get it. Docker Success is 
 UX Optimization Content Delivery Network Code Review Machine Learning Agile Virtual Machines
 Virtual Machines Container Orchestration Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Automation If you can dream it, you can do it. Cache Invalidation Distributed Systems Scalability Innovation distinguishes between a leader and a follower. React Code Review
 Message Queue Logging Edge Computing Containerization Data Pipeline Predictive Analytics To be the best, you must be able to handle the worst. Artificial Intelligence Do what you love and the money will follow. Neural Networks Distributed Systems Automation
+WebSockets Server Response Optimization Latency Optimization Logging
