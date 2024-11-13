@@ -13,3 +13,4 @@ Event Sourcing Innovation distinguishes between a leader and a follower. Agile Q
 NLP API Gateway Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Algorithm Testing The only way to do great work is to love what you do. Data Science Difficult roads often lead to beautiful destinations. JWT
 Machine Learning Automation OAuth Python Optimization
 A/B Testing Docker The only way to do great work is to love what you do. React Dream big and dare to fail. Algorithm Python Edge Computing
+Code Review JavaScript Kafka Event-driven Architecture Python Cloud Blockchain API
