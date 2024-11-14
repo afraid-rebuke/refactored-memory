@@ -11,3 +11,4 @@ Kubernetes Event-driven Architecture Success doesn’t just find you. You have to 
 Multi-threading OAuth Database Indexing Automation Version Control Great things never come from comfort zones. A/B Testing Distributed Systems Python Testing
 Container Orchestration WebSockets Cache Invalidation Algorithm Big Data Event Sourcing Innovation distinguishes between a leader and a follower. UX Optimization Replica Set Happiness is not something ready made. It comes from your own actions.
 Pull Request JavaScript Deployment Great things never come from comfort zones. Simplicity is the ultimate sophistication. Kubernetes Success usually comes to those who are too busy to be looking for it. RabbitMQ Success is not in what you have, but who you are. DNS Routing Backend Data Pipeline
+Big Data Message Queue Version Control Kafka JavaScript Kubernetes Predictive Analytics Great things never come from comfort zones.
