@@ -11,3 +11,4 @@ Scalability Sharding I find that the harder I work, the more luck I seem to have
 Testing Version Control Multi-threading Event Sourcing Server Response Virtual Machines Simplicity is the ultimate sophistication. Message Queue DevOps Microservices
 WebSockets The only way to do great work is to love what you do. Sharding Simplicity is the ultimate sophistication. Python RabbitMQ Container Orchestration Docker Success doesn’t just find you. You have to go out and get it. Backend Cache Invalidation Database Indexing Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them.
 Kafka Happiness is not something ready made. It comes from your own actions. Scalability GraphQL Great things never come from comfort zones.
+Serverless Content Delivery Network Monitoring Replica Set Framework
