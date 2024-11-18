@@ -12,3 +12,4 @@ Quantum Computing Kubernetes Big Data Success usually comes to those who are too
 Python Logging Version Control Monitoring Pull Request Predictive Analytics I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Cloud Functions Optimization Database JavaScript Sharding
 Pull Request Deployment Great things never come from comfort zones. API Gateway Automation Database Indexing If you can dream it, you can do it. Latency Optimization
 Data Pipeline Docker Success usually comes to those who are too busy to be looking for it. Kafka Great things never come from comfort zones.
+Monitoring Virtual Machines DNS Routing Zero Downtime Deployment Deployment Replica Set
