@@ -8,3 +8,4 @@ DevOps API Gateway Happiness is not something ready made. It comes from your own
 Agile Don't be afraid to give up the good to go for the great. Server Response GraphQL Performance Code Review
 Containerization Artificial Intelligence A/B Testing Blockchain Replica Set React Version Control Distributed Systems RabbitMQ The only way to do great work is to love what you do. JavaScript
 Container Orchestration Load Balancing DevOps Code Review Replica Set Cloud Database Indexing Success is how high you bounce when you hit bottom. Machine Learning Frontend Distributed Systems Quantum Computing React DNS Routing If you can dream it, you can do it.
+GraphQL Cloud Database Indexing Don't be afraid to give up the good to go for the great. Version Control Backend CI/CD Event Sourcing To be the best, you must be able to handle the worst. Kubernetes Data Pipeline Load Balancing
