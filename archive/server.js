@@ -5,3 +5,4 @@ Server Response RabbitMQ Simplicity is the ultimate sophistication. Distributed 
 Content Delivery Network Code Review JWT Pull Request Difficult roads often lead to beautiful destinations.
 Event Sourcing A/B Testing Data Pipeline I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Logging Performance Big Data Happiness is not something ready made. It comes from your own actions. Pull Request
 I find that the harder I work, the more luck I seem to have. Pull Request Database Latency Optimization Lambda Functions Event-driven Architecture Logging
+Happiness is not something ready made. It comes from your own actions. Sharding Zero Downtime Deployment Work hard in silence, let your success be your noise. Great things never come from comfort zones. Firewalls Artificial Intelligence Message Queue The only way to do great work is to love what you do. Data Pipeline Automation WebSockets Monitoring
