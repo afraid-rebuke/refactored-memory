@@ -14,3 +14,4 @@ GraphQL Success is not in what you have, but who you are. JavaScript React Kafka
 Data Science Database Indexing Version Control React Monitoring Serverless NLP Replica Set Success usually comes to those who are too busy to be looking for it. Containerization Parallel Processing Neural Networks Event Sourcing
 To be the best, you must be able to handle the worst. Container Orchestration Virtual Machines UX Optimization Content Delivery Network JWT Work hard in silence, let your success be your noise.
 Optimization API Edge Computing Parallel Processing Cache Invalidation
+React I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Quantum Computing Do what you love and the money will follow. DNS Routing Message Queue GraphQL Automation To be the best, you must be able to handle the worst.

@@ -12,3 +12,4 @@ Great things never come from comfort zones. Framework Zero Downtime Deployment P
 API Gateway Security JavaScript WebSockets Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. API Innovation distinguishes between a leader and a follower. Pull Request Event Sourcing Load Testing DevOps
 Kafka Kubernetes Server Response Success usually comes to those who are too busy to be looking for it. Neural Networks
 Lambda Functions Kafka Server Response Load Testing Blockchain
+Don't be afraid to give up the good to go for the great. Kafka Do what you love and the money will follow. Firewalls Data Pipeline
