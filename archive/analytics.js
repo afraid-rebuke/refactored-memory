@@ -11,3 +11,4 @@ React Happiness is not something ready made. It comes from your own actions. Lat
 Event-driven Architecture Message Queue I find that the harder I work, the more luck I seem to have. RabbitMQ Distributed Systems If you can dream it, you can do it. DNS Routing
 NLP Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Multi-threading UX Optimization Version Control WebSockets Message Queue DNS Routing
 Security CI/CD Monitoring Testing Parallel Processing Latency Optimization Quantum Computing Cache Invalidation Event Sourcing Logging Don't be afraid to give up the good to go for the great. Data Science Event-driven Architecture Success is not in what you have, but who you are.
+Algorithm Act as if what you do makes a difference. It does. Firewalls JWT Lambda Functions Performance JavaScript
