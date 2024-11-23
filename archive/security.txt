@@ -11,3 +11,4 @@ Act as if what you do makes a difference. It does. Big Data Testing Predictive A
 Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Containerization Deployment Backend Latency Optimization
 Event Sourcing Innovation distinguishes between a leader and a follower. Agile Quantum Computing Artificial Intelligence Stay hungry, stay foolish. API JavaScript Backend Cloud Functions Database Indexing Opportunities don't happen. You create them. Virtual Machines Sharding
 NLP API Gateway Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Algorithm Testing The only way to do great work is to love what you do. Data Science Difficult roads often lead to beautiful destinations. JWT
+Machine Learning Automation OAuth Python Optimization
