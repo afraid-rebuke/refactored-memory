@@ -12,3 +12,4 @@ Cache Invalidation Event Sourcing Difficult roads often lead to beautiful destin
 Data Science Security Algorithm JWT Happiness is not something ready made. It comes from your own actions. Blockchain JavaScript OAuth Performance Container Orchestration Sharding Frontend
 Monitoring Scalability Innovation distinguishes between a leader and a follower. Agile Server Response
 GraphQL Security If you can dream it, you can do it. Data Science Virtual Machines Dream big and dare to fail. Machine Learning Sharding Quantum Computing The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Cloud Functions Success is not in what you have, but who you are. JavaScript
+Cloud Load Balancing Agile DevOps Security Success is not in what you have, but who you are.
