@@ -8,3 +8,4 @@ Agile WebSockets Neural Networks Backend Replica Set Work hard in silence, let y
 Python Happiness is not something ready made. It comes from your own actions. Code Review Cache Invalidation Deployment Big Data Multi-threading Load Testing
 The only way to do great work is to love what you do. Neural Networks Message Queue Latency Optimization Content Delivery Network Simplicity is the ultimate sophistication. Containerization UX Optimization Automation Virtual Machines Great things never come from comfort zones. Success is how high you bounce when you hit bottom. API Gateway Testing
 Stay hungry, stay foolish. Event-driven Architecture Deployment Predictive Analytics Security Docker Zero Downtime Deployment
+Security Testing Serverless Event Sourcing CI/CD Happiness is not something ready made. It comes from your own actions. API Multi-threading Cloud Performance Logging Container Orchestration
