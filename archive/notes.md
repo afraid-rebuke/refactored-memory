@@ -10,3 +10,4 @@ CI/CD Great things never come from comfort zones. Version Control Deployment Sta
 Agile OAuth Neural Networks Sharding Code Review Latency Optimization Lambda Functions Artificial Intelligence Frontend Message Queue Performance React Cache Invalidation The only way to do great work is to love what you do. Kafka
 API Microservices Monitoring Security Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. The only way to do great work is to love what you do. DNS Routing
 Logging CI/CD Edge Computing Optimization Load Balancing Python API Gateway Artificial Intelligence Great things never come from comfort zones. DNS Routing RabbitMQ
+Virtual Machines OAuth Pull Request Zero Downtime Deployment Sharding Neural Networks Event Sourcing GraphQL Algorithm Multi-threading DevOps Event-driven Architecture React Kafka
