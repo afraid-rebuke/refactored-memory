@@ -10,3 +10,4 @@ DevOps Happiness is not something ready made. It comes from your own actions. Di
 Database Indexing IoT Sharding Docker I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Cache Invalidation Predictive Analytics DevOps Act as if what you do makes a difference. It does. Parallel Processing
 Cache Invalidation Event Sourcing Difficult roads often lead to beautiful destinations. Message Queue Framework To be the best, you must be able to handle the worst. API Gateway GraphQL
 Data Science Security Algorithm JWT Happiness is not something ready made. It comes from your own actions. Blockchain JavaScript OAuth Performance Container Orchestration Sharding Frontend
+Monitoring Scalability Innovation distinguishes between a leader and a follower. Agile Server Response
