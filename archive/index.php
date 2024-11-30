@@ -7,3 +7,4 @@ Don't be afraid to give up the good to go for the great. A/B Testing Latency Opt
 DevOps API Gateway Happiness is not something ready made. It comes from your own actions. WebSockets GraphQL Success is not in what you have, but who you are. Framework Success doesn’t just find you. You have to go out and get it. Event Sourcing Cloud Load Balancing Docker Replica Set
 Agile Don't be afraid to give up the good to go for the great. Server Response GraphQL Performance Code Review
 Containerization Artificial Intelligence A/B Testing Blockchain Replica Set React Version Control Distributed Systems RabbitMQ The only way to do great work is to love what you do. JavaScript
+Container Orchestration Load Balancing DevOps Code Review Replica Set Cloud Database Indexing Success is how high you bounce when you hit bottom. Machine Learning Frontend Distributed Systems Quantum Computing React DNS Routing If you can dream it, you can do it.
