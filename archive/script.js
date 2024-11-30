@@ -9,3 +9,4 @@ Message Queue Performance Lambda Functions Agile DevOps
 Zero Downtime Deployment Performance Parallel Processing Multi-threading Event-driven Architecture Monitoring JavaScript A/B Testing
 CI/CD Docker Dream big and dare to fail. Sharding Data Science Microservices
 Great things never come from comfort zones. Framework Zero Downtime Deployment Python Virtual Machines
+API Gateway Security JavaScript WebSockets Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. API Innovation distinguishes between a leader and a follower. Pull Request Event Sourcing Load Testing DevOps
