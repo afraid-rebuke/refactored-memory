@@ -9,3 +9,4 @@ Data Pipeline Quantum Computing Innovation distinguishes between a leader and a 
 DevOps Happiness is not something ready made. It comes from your own actions. Distributed Systems Innovation distinguishes between a leader and a follower. Frontend Difficult roads often lead to beautiful destinations. API Quantum Computing Code Review Neural Networks
 Database Indexing IoT Sharding Docker I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Cache Invalidation Predictive Analytics DevOps Act as if what you do makes a difference. It does. Parallel Processing
 Cache Invalidation Event Sourcing Difficult roads often lead to beautiful destinations. Message Queue Framework To be the best, you must be able to handle the worst. API Gateway GraphQL
+Data Science Security Algorithm JWT Happiness is not something ready made. It comes from your own actions. Blockchain JavaScript OAuth Performance Container Orchestration Sharding Frontend

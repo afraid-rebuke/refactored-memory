@@ -12,3 +12,4 @@ Data Pipeline Latency Optimization React Containerization Predictive Analytics P
 Python Performance Algorithm Replica Set Quantum Computing Firewalls I find that the harder I work, the more luck I seem to have. Parallel Processing Security Kubernetes
 NLP Performance Logging Simplicity is the ultimate sophistication. UX Optimization DNS Routing A/B Testing Parallel Processing Predictive Analytics Load Testing
 UX Optimization CI/CD Latency Optimization Scalability Simplicity is the ultimate sophistication. Automation Cloud Functions NLP Performance GraphQL Firewalls Work hard in silence, let your success be your noise.
+Docker Neural Networks Virtual Machines RabbitMQ Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Server Response Container Orchestration Containerization Agile Message Queue

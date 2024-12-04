@@ -8,3 +8,4 @@ IoT Message Queue Neural Networks Logging Python JavaScript Stay hungry, stay fo
 Message Queue Performance Lambda Functions Agile DevOps
 Zero Downtime Deployment Performance Parallel Processing Multi-threading Event-driven Architecture Monitoring JavaScript A/B Testing
 CI/CD Docker Dream big and dare to fail. Sharding Data Science Microservices
+Great things never come from comfort zones. Framework Zero Downtime Deployment Python Virtual Machines
