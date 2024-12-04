@@ -11,3 +11,4 @@ Artificial Intelligence Edge Computing I find that the harder I work, the more l
 GraphQL Monitoring Kafka Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Load Testing Kubernetes Containerization Simplicity is the ultimate sophistication. Backend
 Version Control I find that the harder I work, the more luck I seem to have. Data Science Multi-threading Content Delivery Network The only way to do great work is to love what you do.
 GraphQL Success is not in what you have, but who you are. JavaScript React Kafka Logging
+Data Science Database Indexing Version Control React Monitoring Serverless NLP Replica Set Success usually comes to those who are too busy to be looking for it. Containerization Parallel Processing Neural Networks Event Sourcing
