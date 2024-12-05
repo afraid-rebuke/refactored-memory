@@ -7,3 +7,4 @@ Sharding Deployment Firewalls Server Response API Gateway Do what you love and t
 Virtual Machines DevOps CI/CD Success doesn’t just find you. You have to go out and get it. Kafka Cache Invalidation Load Balancing
 Zero Downtime Deployment Success is not in what you have, but who you are. Scalability Testing Distributed Systems WebSockets Big Data
 GraphQL Version Control Kubernetes Neural Networks I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Agile Monitoring Testing Distributed Systems Lambda Functions IoT
+Success is not in what you have, but who you are. Framework Predictive Analytics DevOps Serverless Pull Request Data Science Don't be afraid to give up the good to go for the great.
