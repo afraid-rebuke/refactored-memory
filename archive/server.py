@@ -10,3 +10,4 @@ Database Event-driven Architecture DNS Routing Cloud Functions Message Queue Agi
 Artificial Intelligence Edge Computing I find that the harder I work, the more luck I seem to have. Agile Work hard in silence, let your success be your noise. Framework The only way to do great work is to love what you do. Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. DevOps Parallel Processing Event Sourcing A/B Testing
 GraphQL Monitoring Kafka Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Load Testing Kubernetes Containerization Simplicity is the ultimate sophistication. Backend
 Version Control I find that the harder I work, the more luck I seem to have. Data Science Multi-threading Content Delivery Network The only way to do great work is to love what you do.
+GraphQL Success is not in what you have, but who you are. JavaScript React Kafka Logging
