@@ -7,3 +7,4 @@ Kubernetes Virtual Machines Event-driven Architecture Serverless Database Indexi
 IoT Message Queue Neural Networks Logging Python JavaScript Stay hungry, stay foolish. Distributed Systems Testing A/B Testing Predictive Analytics UX Optimization
 Message Queue Performance Lambda Functions Agile DevOps
 Zero Downtime Deployment Performance Parallel Processing Multi-threading Event-driven Architecture Monitoring JavaScript A/B Testing
+CI/CD Docker Dream big and dare to fail. Sharding Data Science Microservices
