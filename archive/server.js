@@ -3,3 +3,4 @@ Scalability Distributed Systems Parallel Processing Cache Invalidation Sharding 
 NLP JavaScript Docker Don't be afraid to give up the good to go for the great. Sharding
 Server Response RabbitMQ Simplicity is the ultimate sophistication. Distributed Systems Act as if what you do makes a difference. It does. WebSockets Testing Big Data
 Content Delivery Network Code Review JWT Pull Request Difficult roads often lead to beautiful destinations.
+Event Sourcing A/B Testing Data Pipeline I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Logging Performance Big Data Happiness is not something ready made. It comes from your own actions. Pull Request
