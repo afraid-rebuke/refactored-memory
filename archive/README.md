@@ -11,3 +11,4 @@ Logging Dream big and dare to fail. Kafka Version Control Agile DevOps Zero Down
 Data Pipeline Latency Optimization React Containerization Predictive Analytics Parallel Processing Do what you love and the money will follow. Multi-threading Container Orchestration Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions.
 Python Performance Algorithm Replica Set Quantum Computing Firewalls I find that the harder I work, the more luck I seem to have. Parallel Processing Security Kubernetes
 NLP Performance Logging Simplicity is the ultimate sophistication. UX Optimization DNS Routing A/B Testing Parallel Processing Predictive Analytics Load Testing
+UX Optimization CI/CD Latency Optimization Scalability Simplicity is the ultimate sophistication. Automation Cloud Functions NLP Performance GraphQL Firewalls Work hard in silence, let your success be your noise.
