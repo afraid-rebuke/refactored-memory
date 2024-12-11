@@ -6,3 +6,4 @@ Do what you love and the money will follow. API Gateway Act as if what you do ma
 Sharding Deployment Firewalls Server Response API Gateway Do what you love and the money will follow. Great things never come from comfort zones. RabbitMQ Pull Request Opportunities don't happen. You create them. Monitoring Content Delivery Network Dream big and dare to fail. Algorithm Success is how high you bounce when you hit bottom.
 Virtual Machines DevOps CI/CD Success doesn’t just find you. You have to go out and get it. Kafka Cache Invalidation Load Balancing
 Zero Downtime Deployment Success is not in what you have, but who you are. Scalability Testing Distributed Systems WebSockets Big Data
+GraphQL Version Control Kubernetes Neural Networks I find that the harder I work, the more luck I seem to have. Don't be afraid to give up the good to go for the great. Agile Monitoring Testing Distributed Systems Lambda Functions IoT
