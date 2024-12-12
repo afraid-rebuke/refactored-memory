@@ -5,3 +5,4 @@ Simplicity is the ultimate sophistication. The only way to do great work is to l
 Do what you love and the money will follow. API Gateway Act as if what you do makes a difference. It does. Sharding Content Delivery Network Don't be afraid to give up the good to go for the great. Event-driven Architecture
 Sharding Deployment Firewalls Server Response API Gateway Do what you love and the money will follow. Great things never come from comfort zones. RabbitMQ Pull Request Opportunities don't happen. You create them. Monitoring Content Delivery Network Dream big and dare to fail. Algorithm Success is how high you bounce when you hit bottom.
 Virtual Machines DevOps CI/CD Success doesn’t just find you. You have to go out and get it. Kafka Cache Invalidation Load Balancing
+Zero Downtime Deployment Success is not in what you have, but who you are. Scalability Testing Distributed Systems WebSockets Big Data
