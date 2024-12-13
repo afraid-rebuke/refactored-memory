@@ -8,3 +8,4 @@ Neural Networks Serverless Load Balancing Innovation distinguishes between a lea
 DNS Routing Algorithm Edge Computing Quantum Computing Backend Security Database Indexing Zero Downtime Deployment JavaScript
 Containerization If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Load Testing Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Frontend NLP
 React Happiness is not something ready made. It comes from your own actions. Latency Optimization RabbitMQ Deployment Distributed Systems Automation Success doesn’t just find you. You have to go out and get it. Kubernetes Opportunities don't happen. You create them. GraphQL Blockchain
+Event-driven Architecture Message Queue I find that the harder I work, the more luck I seem to have. RabbitMQ Distributed Systems If you can dream it, you can do it. DNS Routing
