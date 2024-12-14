@@ -7,3 +7,4 @@ CI/CD Logging Blockchain Dream big and dare to fail. WebSockets Automation Paral
 Backend Big Data Kafka Distributed Systems Latency Optimization Success doesn’t just find you. You have to go out and get it.
 Great things never come from comfort zones. Containerization Multi-threading Difficult roads often lead to beautiful destinations. Quantum Computing Blockchain A/B Testing Cache Invalidation I find that the harder I work, the more luck I seem to have.
 Load Balancing DNS Routing Neural Networks Performance Python Sharding Firewalls
+Message Queue Artificial Intelligence JavaScript Optimization Success is how high you bounce when you hit bottom. Frontend If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Scalability Load Balancing Don't be afraid to give up the good to go for the great. Quantum Computing Database Indexing Firewalls
