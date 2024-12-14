@@ -8,3 +8,4 @@ API Parallel Processing Database Indexing Success is not in what you have, but w
 Frontend Pull Request Python Simplicity is the ultimate sophistication. IoT Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Cache Invalidation
 Server Response Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Testing Blockchain Message Queue Serverless Kafka WebSockets Data Pipeline
 Scalability Sharding I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Deployment Logging The only way to do great work is to love what you do. Data Science Artificial Intelligence Lambda Functions A/B Testing Server Response
+Testing Version Control Multi-threading Event Sourcing Server Response Virtual Machines Simplicity is the ultimate sophistication. Message Queue DevOps Microservices

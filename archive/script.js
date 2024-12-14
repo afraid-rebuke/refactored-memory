@@ -6,3 +6,4 @@ Success usually comes to those who are too busy to be looking for it. Virtual Ma
 Kubernetes Virtual Machines Event-driven Architecture Serverless Database Indexing React
 IoT Message Queue Neural Networks Logging Python JavaScript Stay hungry, stay foolish. Distributed Systems Testing A/B Testing Predictive Analytics UX Optimization
 Message Queue Performance Lambda Functions Agile DevOps
+Zero Downtime Deployment Performance Parallel Processing Multi-threading Event-driven Architecture Monitoring JavaScript A/B Testing
