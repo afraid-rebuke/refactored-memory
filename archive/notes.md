@@ -8,3 +8,4 @@ Deployment DNS Routing Database Neural Networks Server Response
 API Gateway Cache Invalidation UX Optimization JWT Load Testing Data Science Optimization Work hard in silence, let your success be your noise. Version Control Lambda Functions Artificial Intelligence
 CI/CD Great things never come from comfort zones. Version Control Deployment Stay hungry, stay foolish. Dream big and dare to fail. To be the best, you must be able to handle the worst. Serverless Artificial Intelligence
 Agile OAuth Neural Networks Sharding Code Review Latency Optimization Lambda Functions Artificial Intelligence Frontend Message Queue Performance React Cache Invalidation The only way to do great work is to love what you do. Kafka
+API Microservices Monitoring Security Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. The only way to do great work is to love what you do. DNS Routing
