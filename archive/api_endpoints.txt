@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. Content Delivery Ne
 DNS Routing A/B Testing Act as if what you do makes a difference. It does. Event-driven Architecture Load Testing Success is how high you bounce when you hit bottom. API
 Cloud Logging IoT Stay hungry, stay foolish. React
 API Edge Computing Success is how high you bounce when you hit bottom. Version Control Event Sourcing The only way to do great work is to love what you do. Backend I find that the harder I work, the more luck I seem to have. Database Algorithm React Firewalls
+Zero Downtime Deployment Data Science Kafka Quantum Computing Message Queue Scalability Data Pipeline Event-driven Architecture Replica Set Firewalls Distributed Systems Pull Request A/B Testing
