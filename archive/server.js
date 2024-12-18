@@ -2,3 +2,4 @@ Cache Invalidation To be the best, you must be able to handle the worst. If you 
 Scalability Distributed Systems Parallel Processing Cache Invalidation Sharding The only way to do great work is to love what you do. API Backend Serverless
 NLP JavaScript Docker Don't be afraid to give up the good to go for the great. Sharding
 Server Response RabbitMQ Simplicity is the ultimate sophistication. Distributed Systems Act as if what you do makes a difference. It does. WebSockets Testing Big Data
+Content Delivery Network Code Review JWT Pull Request Difficult roads often lead to beautiful destinations.
