@@ -5,3 +5,4 @@ Big Data Deployment Do what you love and the money will follow. Great things nev
 Event-driven Architecture Pull Request Opportunities don't happen. You create them. Code Review Scalability Replica Set
 CI/CD Logging Blockchain Dream big and dare to fail. WebSockets Automation Parallel Processing OAuth
 Backend Big Data Kafka Distributed Systems Latency Optimization Success doesn’t just find you. You have to go out and get it.
+Great things never come from comfort zones. Containerization Multi-threading Difficult roads often lead to beautiful destinations. Quantum Computing Blockchain A/B Testing Cache Invalidation I find that the harder I work, the more luck I seem to have.
