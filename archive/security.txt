@@ -5,3 +5,4 @@ I find that the harder I work, the more luck I seem to have. Work hard in silenc
 Content Delivery Network Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Monitoring Pull Request Virtual Machines Message Queue Replica Set CI/CD Backend Sharding
 Success doesn’t just find you. You have to go out and get it. Python Cloud Functions Database Indexing Container Orchestration Neural Networks GraphQL Containerization Automation Cache Invalidation Big Data Multi-threading Optimization
 Replica Set Artificial Intelligence Kubernetes Algorithm Sharding Neural Networks Data Pipeline Big Data Deployment Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst.
+I find that the harder I work, the more luck I seem to have. Replica Set Database Quantum Computing DevOps Containerization
