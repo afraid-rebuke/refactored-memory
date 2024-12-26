@@ -6,3 +6,4 @@ Testing Sharding Lambda Functions Security Innovation distinguishes between a le
 NLP Success usually comes to those who are too busy to be looking for it. Code Review Great things never come from comfort zones. Deployment Happiness is not something ready made. It comes from your own actions. Quantum Computing RabbitMQ DNS Routing Cloud Kubernetes Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations.
 API Parallel Processing Database Indexing Success is not in what you have, but who you are. Logging JavaScript
 Frontend Pull Request Python Simplicity is the ultimate sophistication. IoT Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Cache Invalidation
+Server Response Innovation distinguishes between a leader and a follower. Don't be afraid to give up the good to go for the great. Testing Blockchain Message Queue Serverless Kafka WebSockets Data Pipeline
