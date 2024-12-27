@@ -5,3 +5,4 @@ OAuth Containerization Data Science Simplicity is the ultimate sophistication. A
 Latency Optimization Sharding DNS Routing API Gateway A/B Testing If you can dream it, you can do it. GraphQL
 Message Queue Stay hungry, stay foolish. Predictive Analytics Act as if what you do makes a difference. It does. Dream big and dare to fail. Code Review
 Success is not in what you have, but who you are. Agile DevOps Kafka WebSockets Firewalls RabbitMQ Cloud
+Data Pipeline Quantum Computing Innovation distinguishes between a leader and a follower. Frontend Do what you love and the money will follow. Big Data Performance JavaScript RabbitMQ
