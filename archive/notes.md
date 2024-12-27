@@ -6,3 +6,4 @@ OAuth WebSockets Serverless Logging Container Orchestration I find that the hard
 Act as if what you do makes a difference. It does. Container Orchestration Machine Learning Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Kubernetes
 Deployment DNS Routing Database Neural Networks Server Response
 API Gateway Cache Invalidation UX Optimization JWT Load Testing Data Science Optimization Work hard in silence, let your success be your noise. Version Control Lambda Functions Artificial Intelligence
+CI/CD Great things never come from comfort zones. Version Control Deployment Stay hungry, stay foolish. Dream big and dare to fail. To be the best, you must be able to handle the worst. Serverless Artificial Intelligence

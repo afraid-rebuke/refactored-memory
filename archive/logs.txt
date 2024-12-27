@@ -4,3 +4,4 @@ CI/CD OAuth Kafka Event Sourcing Dream big and dare to fail. To be the best, you
 Big Data Deployment Do what you love and the money will follow. Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Kubernetes JavaScript
 Event-driven Architecture Pull Request Opportunities don't happen. You create them. Code Review Scalability Replica Set
 CI/CD Logging Blockchain Dream big and dare to fail. WebSockets Automation Parallel Processing OAuth
+Backend Big Data Kafka Distributed Systems Latency Optimization Success doesn’t just find you. You have to go out and get it.
