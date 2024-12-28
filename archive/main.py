@@ -4,3 +4,4 @@ CI/CD Edge Computing OAuth Event Sourcing Cache Invalidation Security Latency Op
 Great things never come from comfort zones. NLP OAuth Act as if what you do makes a difference. It does. Optimization Cache Invalidation Data Pipeline API Cloud Blockchain Cloud Functions Multi-threading Containerization
 Sharding JWT Pull Request Version Control Message Queue Difficult roads often lead to beautiful destinations. Content Delivery Network Scalability
 Firewalls GraphQL Version Control Success doesn’t just find you. You have to go out and get it. Quantum Computing Performance Python Replica Set Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Load Balancing
+Framework IoT Zero Downtime Deployment Server Response Virtual Machines Pull Request
