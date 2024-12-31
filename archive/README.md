@@ -7,3 +7,4 @@ Cloud Functions API Edge Computing Load Testing Blockchain Microservices Monitor
 Data Pipeline DevOps Deployment Message Queue Predictive Analytics API Distributed Systems
 Monitoring Virtual Machines Success is how high you bounce when you hit bottom. DevOps Success is not in what you have, but who you are. If you can dream it, you can do it. Docker IoT Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst.
 Kubernetes Machine Learning Dream big and dare to fail. A/B Testing Act as if what you do makes a difference. It does. OAuth
+Logging Dream big and dare to fail. Kafka Version Control Agile DevOps Zero Downtime Deployment IoT To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. GraphQL Opportunities don't happen. You create them. Blockchain Automation Load Balancing
