@@ -4,3 +4,4 @@ Optimization Version Control Scalability I find that the harder I work, the more
 OAuth Containerization Data Science Simplicity is the ultimate sophistication. A/B Testing Docker Python To be the best, you must be able to handle the worst. Microservices
 Latency Optimization Sharding DNS Routing API Gateway A/B Testing If you can dream it, you can do it. GraphQL
 Message Queue Stay hungry, stay foolish. Predictive Analytics Act as if what you do makes a difference. It does. Dream big and dare to fail. Code Review
+Success is not in what you have, but who you are. Agile DevOps Kafka WebSockets Firewalls RabbitMQ Cloud
