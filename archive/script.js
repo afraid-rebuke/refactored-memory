@@ -4,3 +4,4 @@ Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and
 CI/CD React Framework Algorithm Multi-threading Great things never come from comfort zones. Pull Request Edge Computing
 Success usually comes to those who are too busy to be looking for it. Virtual Machines Load Testing Distributed Systems Microservices Cache Invalidation
 Kubernetes Virtual Machines Event-driven Architecture Serverless Database Indexing React
+IoT Message Queue Neural Networks Logging Python JavaScript Stay hungry, stay foolish. Distributed Systems Testing A/B Testing Predictive Analytics UX Optimization
