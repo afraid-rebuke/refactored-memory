@@ -2,3 +2,4 @@ Load Balancing Neural Networks Version Control Happiness is not something ready 
 Security DNS Routing WebSockets Edge Computing Framework Database Indexing If you can dream it, you can do it. Automation Great things never come from comfort zones. Artificial Intelligence JavaScript
 CI/CD Edge Computing OAuth Event Sourcing Cache Invalidation Security Latency Optimization Content Delivery Network Great things never come from comfort zones. Kubernetes Success doesn’t just find you. You have to go out and get it. Cloud WebSockets Predictive Analytics Scalability
 Great things never come from comfort zones. NLP OAuth Act as if what you do makes a difference. It does. Optimization Cache Invalidation Data Pipeline API Cloud Blockchain Cloud Functions Multi-threading Containerization
+Sharding JWT Pull Request Version Control Message Queue Difficult roads often lead to beautiful destinations. Content Delivery Network Scalability
