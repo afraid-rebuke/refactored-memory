@@ -6,3 +6,4 @@ Big Data Multi-threading Success doesn’t just find you. You have to go out and g
 Load Balancing WebSockets Innovation distinguishes between a leader and a follower. Logging API Gateway Data Science Code Review Machine Learning To be the best, you must be able to handle the worst. NLP Frontend
 Distributed Systems Data Science To be the best, you must be able to handle the worst. NLP Lambda Functions Container Orchestration Event Sourcing Neural Networks Performance Scalability Serverless
 Edge Computing Machine Learning Don't be afraid to give up the good to go for the great. Docker Performance The only way to do great work is to love what you do. Virtual Machines
+Performance Simplicity is the ultimate sophistication. Docker GraphQL Cloud Functions Load Testing Load Balancing Difficult roads often lead to beautiful destinations. RabbitMQ Testing IoT Latency Optimization Edge Computing DNS Routing
