@@ -3,3 +3,4 @@ Agile Blockchain Distributed Systems JavaScript DNS Routing Security NLP Deploym
 Monitoring Multi-threading Lambda Functions Quantum Computing Opportunities don't happen. You create them. Serverless Kubernetes JWT DevOps Version Control Optimization Security Distributed Systems A/B Testing Success is not in what you have, but who you are.
 Cloud Functions Latency Optimization Virtual Machines Optimization Event-driven Architecture Cache Invalidation Container Orchestration Act as if what you do makes a difference. It does. Content Delivery Network Data Pipeline OAuth Dream big and dare to fail. Pull Request Microservices
 Security CI/CD If you can dream it, you can do it. Event Sourcing UX Optimization Stay hungry, stay foolish. Serverless
+Load Balancing Frontend Quantum Computing Act as if what you do makes a difference. It does. Code Review NLP Don't be afraid to give up the good to go for the great. Backend
