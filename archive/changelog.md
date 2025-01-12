@@ -1,2 +1,3 @@
 JWT Neural Networks API Zero Downtime Deployment Docker DNS Routing Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Kafka Version Control API Gateway Security Dream big and dare to fail.
 Blockchain Lambda Functions Distributed Systems Serverless DNS Routing Great things never come from comfort zones. If you can dream it, you can do it. Database Do what you love and the money will follow. Code Review Testing
+Data Science Great things never come from comfort zones. Code Review Zero Downtime Deployment Deployment Act as if what you do makes a difference. It does. If you can dream it, you can do it.
