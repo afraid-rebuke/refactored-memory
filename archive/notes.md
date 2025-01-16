@@ -4,3 +4,4 @@ Success is not in what you have, but who you are. Database Indexing Backend Secu
 Code Review Firewalls API Gateway Cloud Content Delivery Network Virtual Machines DNS Routing Big Data Automation Security JavaScript Monitoring Success doesn’t just find you. You have to go out and get it.
 OAuth WebSockets Serverless Logging Container Orchestration I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Load Balancing Server Response Algorithm
 Act as if what you do makes a difference. It does. Container Orchestration Machine Learning Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Kubernetes
+Deployment DNS Routing Database Neural Networks Server Response
