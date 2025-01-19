@@ -3,3 +3,4 @@ Performance Happiness is not something ready made. It comes from your own action
 CI/CD OAuth Kafka Event Sourcing Dream big and dare to fail. To be the best, you must be able to handle the worst. Cloud Functions Lambda Functions Success is how high you bounce when you hit bottom. DevOps Do what you love and the money will follow. NLP Framework Don't be afraid to give up the good to go for the great. Database
 Big Data Deployment Do what you love and the money will follow. Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Kubernetes JavaScript
 Event-driven Architecture Pull Request Opportunities don't happen. You create them. Code Review Scalability Replica Set
+CI/CD Logging Blockchain Dream big and dare to fail. WebSockets Automation Parallel Processing OAuth
