@@ -1,3 +1,4 @@
 Difficult roads often lead to beautiful destinations. Server Response Python DNS Routing Artificial Intelligence Monitoring Dream big and dare to fail. Content Delivery Network Logging Neural Networks Cloud Kafka JavaScript
 Virtual Machines IoT Quantum Computing API Message Queue Latency Optimization The only way to do great work is to love what you do. Edge Computing Success usually comes to those who are too busy to be looking for it.
 Success is not in what you have, but who you are. Database Indexing Backend Security Message Queue Artificial Intelligence Virtual Machines Version Control Automation Frontend Success doesn’t just find you. You have to go out and get it. NLP Optimization
+Code Review Firewalls API Gateway Cloud Content Delivery Network Virtual Machines DNS Routing Big Data Automation Security JavaScript Monitoring Success doesn’t just find you. You have to go out and get it.
