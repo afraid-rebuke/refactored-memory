@@ -3,3 +3,4 @@ Artificial Intelligence Logging Database The only way to do great work is to lov
 Data Pipeline Server Response Work hard in silence, let your success be your noise. Security Opportunities don't happen. You create them. Version Control API Gateway DNS Routing DevOps Backend Do what you love and the money will follow. IoT Logging
 To be the best, you must be able to handle the worst. API Gateway Difficult roads often lead to beautiful destinations. Distributed Systems Dream big and dare to fail. Virtual Machines CI/CD Monitoring GraphQL Success is not in what you have, but who you are. Load Balancing The only way to do great work is to love what you do. Logging
 Monitoring Algorithm Do what you love and the money will follow. Automation Containerization Framework
+Cloud Functions API Edge Computing Load Testing Blockchain Microservices Monitoring Quantum Computing
