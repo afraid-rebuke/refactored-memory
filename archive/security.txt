@@ -1,1 +1,2 @@
 Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. NLP Kubernetes API Gateway Kafka Machine Learning Algorithm Code Review If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Version Control React Cache Invalidation The only way to do great work is to love what you do.
+Security Data Pipeline A/B Testing API The only way to do great work is to love what you do. Content Delivery Network Event-driven Architecture Database Indexing Sharding Testing Cache Invalidation
